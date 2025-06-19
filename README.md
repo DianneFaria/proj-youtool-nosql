@@ -110,7 +110,7 @@ py project.py
 ```
 
 <details>
-  <summary>🎥 Resultados do projeto</summary>
+  <summary><strong>🎥 Resultados do projeto</strong></summary>
 	
   ### GIF de execução
   ![gif youtool](https://github.com/user-attachments/assets/b05732c4-2158-4559-a698-0a2493631a7a)
